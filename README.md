@@ -20,7 +20,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/HyperCode.git
+git clone https://github.com/MacroThicc/HyperCode.git
 cd HyperCode
 Compile:
 bash
